@@ -1,0 +1,5 @@
+(S (Sdecl((NP (PropN John)) (VP(VPt(Vt ate)(NP(NP0(NP0(NP1(N2mp(Nmp salad))))(PP(Prep with)(NP(NP0(NP0(NP1(N2mp(Nmp mushrooms))))(PP(Prep with)(NP(Det a)(N2sc(N3(N(Nsc fork))))))))))))))).)
+
+(S (Sdecl(NP(PropN John))(VP(VP(VPt(Vt ate)(NP(NP0(NP1(N2mp(Nmp salad)))))))(PP(Prep with)(NP(NP0(NP0(NP1(N2mp(Nmp mushrooms))))(PP(Prep with)(NP(Det a)(N2sc(N3(N(Nsc fork))))))))))).)
+
+(S(Sdecl(NP(PropN John))(VPt(VP(VPt(Vt ate)(NP salad))(PP(Prep with)(NP(NP0(NP1(N2mp(Nmp mushrooms)))))))(PP(Prep with)(NP1(Det a)(N2sc(Nsc fork)))))).)
